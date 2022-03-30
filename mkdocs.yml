@@ -10,3 +10,5 @@ nav:
     - Troubleshooting: 'troubleshooting.md'
 theme: mkdocs
 extra_css: [extra.css]
+docs_dir: 'src'
+site_dir: 'docs'
