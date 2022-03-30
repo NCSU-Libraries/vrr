@@ -4,7 +4,7 @@
 
 > **Note**
 
-> If you have a Unity ID, proceed to [email us](http://127.0.0.1:8000/user-guide/creating-account/#email-us).
+> If you have a Unity ID, proceed to [email us](#email-us).
 
 If you do not have a NC State Unity ID, create a non-NCSU account at <https://vcl.ncsu.edu/accounts/site.php/newaccount.php>. Enter your name and email address. Under "Please explain why you are requesting an account," enter: `Using Libraries virtual reading room.`
 

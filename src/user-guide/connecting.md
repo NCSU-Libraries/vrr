@@ -2,5 +2,5 @@
 
 Choose the steps for your operating system.
 
-- [Windows](/user-guide/connecting-windows)
-- [Mac](/user-guide/connecting-mac)
+- [Windows](../connecting-windows)
+- [Mac](../connecting-mac)

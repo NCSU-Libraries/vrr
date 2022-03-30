@@ -6,7 +6,7 @@ Once we have notified you about having access, go to [https://vcl.ncsu.edu/](htt
 
 > **Note**
 
-> If you have a NC State Unity ID, enter your username and password, and skip to [obtaining your virtual reading room credentials](/user-guide/authenticating/#obtain-your-virtual-reading-room-credentials).
+> If you have a NC State Unity ID, enter your username and password, and skip to [obtaining your virtual reading room credentials](#obtain-your-virtual-reading-room-credentials).
 
 If you’re using a non-NCSU Account, under “Please select an authentication method to use,” click on the drop-down list. Scroll down, select Non-NCSU Account, and click “Proceed to Login.” 
 
