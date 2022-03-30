@@ -1,0 +1,12 @@
+site_name: Virtual Reading Room
+site_url: http://shellyyblack.github.io/
+nav:
+    - Home: 'index.md'
+    - 'User Guide':
+        - Overview: 'user-guide.md'
+        - 1. Creating an account: 'user-guide/creating-account.md'
+        - 2. Authenticating: 'user-guide/authenticating.md'
+        - 3. Connecting: 'user-guide/connecting.md' 
+    - Troubleshooting: 'troubleshooting.md'
+theme: mkdocs
+extra_css: [extra.css]

@@ -1,0 +1,28 @@
+.bg-primary {
+  background: #CC0000 !important;
+}
+
+body::before {
+  background: none;
+}
+
+a {
+  color: #c00;
+}
+
+a:hover
+  {color:#900;
+}
+
+blockquote {              
+  background-color: #f7f0f0;
+  border-color: #f0cece;      
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 4px;
+  text-align: left;
+}
+
+
