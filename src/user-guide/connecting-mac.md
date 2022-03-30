@@ -40,7 +40,7 @@ If you are asked whether you’d like to upgrade Ubuntu, select “Don’t Upgra
 
 When you are on the Desktop, go to the VirtualReadingRoom folder. Then open the folder which has your name.
 
-![Virtual reading room folders](/img/researcher-folders.jpg)
+![Virtual reading room folders](../img/researcher-folders.jpg)
 
 ## Request reproductions
 

@@ -10,7 +10,7 @@ Once we have notified you about having access, go to [https://vcl.ncsu.edu/](htt
 
 If you’re using a non-NCSU Account, under “Please select an authentication method to use,” click on the drop-down list. Scroll down, select Non-NCSU Account, and click “Proceed to Login.” 
 
-![Login drop-down menu](/img/vcl-login.gif)
+![Login drop-down menu](../img/vcl-login.gif)
 
 Then enter your email address and password.
 
@@ -22,7 +22,7 @@ Under Current Reservations, click the “Connect!” button, and a window will p
 
 Scroll down to “Connect to reservation using xRDP for Linux.”
 
-![Connect pop-up](/img/vcl-connect-pop-up.gif)
+![Connect pop-up](../img/vcl-connect-pop-up.gif)
 
 Write down the Remote Computer number, User ID, and Password. You’ll use this info (but won’t be able to copy and paste it) when connecting in the next steps.
 
