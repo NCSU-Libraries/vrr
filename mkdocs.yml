@@ -1,5 +1,5 @@
 site_name: Virtual Reading Room
-site_url: http://shellyyblack.github.io/
+site_url: https://shellyyblack.github.io/vrr/
 nav:
     - Home: 'index.md'
     - 'User Guide':
