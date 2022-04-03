@@ -32,4 +32,4 @@ Scroll down to “Connect to reservation using xRDP for Linux.”
 
 Write down the Remote Computer number, User ID, and Password. You’ll use this info (but won’t be able to copy and paste it) when connecting in the next steps.
 
-Do not click on the button “Get RDP File.”
+**Do not click on the button “Get RDP File.”**
