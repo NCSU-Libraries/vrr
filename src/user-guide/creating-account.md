@@ -2,11 +2,15 @@
 
 ## Sign up for an external account
 
-> **Note**
+> #### Note
 
 > If you have a Unity ID, proceed to [email us](#email-us).
 
-If you do not have a NC State Unity ID, create a non-NCSU account at <https://vcl.ncsu.edu/accounts/site.php/newaccount.php>. Enter your name and email address. Under "Please explain why you are requesting an account," enter: `Using Libraries virtual reading room.`
+If you do not have a NC State Unity ID, create a non-NCSU account at <https://vcl.ncsu.edu/accounts/site.php/newaccount.php>. 
+
+Enter your name and email address. Under "Please explain why you are requesting an account," enter: `Using Libraries virtual reading room.`
+
+![External account creation](../img/external-account-setup.JPG)
 
 ## Activate your account
 

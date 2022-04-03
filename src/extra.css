@@ -15,14 +15,86 @@ a:hover
 }
 
 blockquote {              
-  background-color: #f7f0f0;
-  border-color: #f0cece;      
-  padding-top: 10px;
-  padding-bottom: 5px;
-  padding-left: 15px;
-  padding-right: 15px;
-  border-radius: 4px;
-  text-align: left;
+  background-color: #fdf7f7;
+  border-left: 3px solid #c00;      
+  margin: 20px 0;
+  padding: 20px
+}
+
+blockquote h4 {
+  color: #c00;
+  font-weight: bold;
+  font-size: inherit;
+}
+
+h2 {
+  font-weight: 400;
+  margin-top: 2rem;
+}
+
+.col-md-9 img {
+  border-style: none;
+  max-width: 100%;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 0;
+  background-color: #ddd;
+  max-height: 75vh;
+}
+
+.bg-secondary {
+  background-color: #f7f7f9 !important;
+}
+
+.card {
+  border-radius: 0rem;
+}
+
+.bs-sidebar .nav > li > a.active, 
+.bs-sidebar .nav > li > a.active:hover, 
+.bs-sidebar .nav > li > a.active:focus {
+  border-right: 0px solid;
+  background: #ddd;
+}
+.bs-sidebar .nav > li > a:hover, 
+.bs-sidebar .nav > li > a:focus {
+  border-right: 0px solid;
+  background: #fefefe;
+}
+
+.dropdown-item:hover, 
+.dropdown-item:focus {
+  color: initial;
+  background: #ddd;
+}
+.dropdown-item.active, 
+.dropdown-item:active {
+  color: initial;
+  background: transparent;
+}
+
+.dropdown-menu {
+  border-radius: 0;
 }
 
 
+/* Help the icons appear centered with text */
+svg {
+  margin-top: -2px;
+}
+
+/* 
+Apply the styles inside the @media rule only when 
+the screen is a certain width (min-width).
+*/
+@media screen and (min-width: 900px) {
+
+  .img-small + p img {
+    max-width: 60%;
+  }
+
+  .img-medium + p img {
+    max-width: 75%;
+  }
+
+}

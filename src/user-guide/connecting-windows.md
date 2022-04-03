@@ -4,6 +4,8 @@
 
 Start the Remote Desktop Connection software by going to the search bar in the bottom left corner of your screen. Type in `mstsc.exe` and hit Enter. A pop-up window will appear.
 
+<div class="img-small"></div>
+
 ![Remote Desktop Connection pop-up](../img/remote_desktop_connection.jpg)
 
 ## Adjust your settings
@@ -12,21 +14,31 @@ Adjust your software settings for the best viewing experience. In the pop-up win
 
 Under Display > Colors, select Highest Quality (32 bit).
 
+<div class="img-small"></div>
+
 ![Remote Desktop Connection Display tab](../img/remote_desktop_connection_display.jpg)
 
 Under Experience > Performance, select LAN from the drop-down menu.
+
+<div class="img-small"></div>
 
 ![Remote Desktop Connection Display tab](../img/remote_desktop_connection_experience.jpg)
 
 Return to the General tab and login by entering the Remote Computer number you wrote down earlier into the Computer text field. Click the Connect button.
 
+<div class="img-small"></div>
+
 ![Remote Desktop Connection pop-up](../img/remote_desktop_connection_IP.jpg)
 
 If you are prompted with a window saying, “The publisher of this remote connection cannot be identified. Do you want to connect anyway?” click Connect.
 
+<div class="img-small"></div>
+
 ![Remote Desktop Connection publisher identity pop-up](../img/publisher-identity.JPG)
 
 If you see a window saying, “The identity of the remote computer cannot be verified. Do you want to connect anyway?” click Yes.
+
+<div class="img-small"></div>
 
 ![Remote Desktop Connection identity pop-up](../img/remote-computer-identity.jpg)
 
