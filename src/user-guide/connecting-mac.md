@@ -4,9 +4,11 @@
 
 Download and install [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) from the Mac App Store. You may need to login with your Apple ID.
 
-> #### Note
-
-> If you have an NC State Unity ID, you may also download this from the Self Service application.
+> <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
+  <circle cx="12" cy="9" r="1" fill="#c00"></circle>
+  <circle cx="12" cy="12" r="7.25" stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
+</svg> If you have an NC State Unity ID, you may also download this from the Self Service application.
 
 ## Open Microsoft Remote Desktop
 
@@ -40,11 +42,10 @@ For PC Name, enter the Remote Computer number you wrote down earlier.
 
 ## Adjust your settings
 
-Under the Display tab, set Color quality to 32 bit.
+Under the Display tab, set Color quality to 32 bit. Then click the blue Add button.
 
 ![](../img/display-settings.jpg)
 
-Click Add.
 
 ## Connect to the virtual reading room
 
@@ -60,16 +61,16 @@ If prompted with, “The identity of the remote PC can’t be verified,” click
 
 Enter the username and password you wrote down earlier.
 
-<svg width="24" height="24" fill="none" viewBox="0 0 24 24">
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
-  <circle cx="12" cy="9" r="1" fill="currentColor"></circle>
-  <circle cx="12" cy="12" r="7.25" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
+> <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
+  <circle cx="12" cy="9" r="1" fill="#c00"></circle>
+  <circle cx="12" cy="12" r="7.25" stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
 </svg> If you see a message that says, “Welcome to the first start of the panel,” select “Use default config.”
 
-<svg width="24" height="24" fill="none" viewBox="0 0 24 24">
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
-  <circle cx="12" cy="9" r="1" fill="currentColor"></circle>
-  <circle cx="12" cy="12" r="7.25" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
+> <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
+  <circle cx="12" cy="9" r="1" fill="#c00"></circle>
+  <circle cx="12" cy="12" r="7.25" stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
 </svg> If you are asked whether you’d like to upgrade Ubuntu, select “Don’t Upgrade.”
 
 ## View your materials

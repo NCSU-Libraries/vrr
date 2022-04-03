@@ -48,9 +48,17 @@ Enter the username and password you wrote down when clicking Connect on the webs
 
 ![Remote desktop login](../img/remote-desktop-login.jpg)
 
-If you see a message that says, “Welcome to the first start of the panel,” select “Use default config.”
+> <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
+  <circle cx="12" cy="9" r="1" fill="#c00"></circle>
+  <circle cx="12" cy="12" r="7.25" stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
+</svg> If you see a message that says, “Welcome to the first start of the panel,” select “Use default config.”
 
-If you are asked whether you’d like to upgrade Ubuntu, select “Don’t Upgrade.”
+> <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
+  <circle cx="12" cy="9" r="1" fill="#c00"></circle>
+  <circle cx="12" cy="12" r="7.25" stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
+</svg> If you are asked whether you’d like to upgrade Ubuntu, select “Don’t Upgrade.”
 
 ## View your materials
 

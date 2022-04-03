@@ -8,6 +8,7 @@
 
 If you see this message and cannot connect, make sure you [signed into the VCL website and clicked "Connect!"](../user-guide/authenticating/#obtain-your-virtual-reading-room-credentials)
 
+<div class="img-medium"></div>
 ![Cannot connect pop-up](img/cant-connect.JPG)
 
 ## Video
