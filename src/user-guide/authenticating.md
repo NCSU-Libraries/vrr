@@ -20,9 +20,13 @@ Then enter your email address and password.
 
 ## Obtain your virtual reading room credentials
 
-Click on Reservations.
+Click on Reservations near the top left of the page.
 
 Under Current Reservations, click the “Connect!” button, and a window will pop up.
+
+<div class="img-medium img-border"></div>
+
+![Current reservations page](../img/current-reservations.JPG)
 
 Scroll down to “Connect to reservation using xRDP for Linux.”
 
