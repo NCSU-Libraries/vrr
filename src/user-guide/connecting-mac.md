@@ -81,7 +81,7 @@ When you are on the Desktop, go to the VirtualReadingRoom folder. Then open the 
 
 ## Request reproductions
 
-If you’d like to request reproductions, copy those files into DuplicationsRequests, which is located in the folder with your name. Fill out the duplication request form we emailed you, and then email us your completed form.
+If you’d like to request reproductions, copy those files into DuplicationsRequests, which is located in the folder with your name. Fill out the [duplication request](https://www.lib.ncsu.edu/sites/default/files/files/images/REPRODUCTION%20REQUEST%20FORM%20FOR%20SCRC.pdf) form we emailed you, and then email us your completed form.
 
 ## End your session
 
