@@ -6,7 +6,7 @@
   <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
   <circle cx="12" cy="9" r="1" fill="#c00"></circle>
   <circle cx="12" cy="12" r="7.25" stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
-</svg>  If you have a Unity ID, proceed to [email us](#email-us).
+</svg>  If you have a Unity ID, skip to the [authenticating instructions](../authenticating).
 
 If you do not have a NC State Unity ID, create a non-NCSU account at <https://vcl.ncsu.edu/accounts/site.php/newaccount.php>. 
 
