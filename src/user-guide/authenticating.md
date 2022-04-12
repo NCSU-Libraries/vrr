@@ -30,7 +30,7 @@ Under Current Reservations, click the “Connect!” button, and a window will p
 
 Scroll down to “Connect to reservation using xRDP for Linux.”
 
-<div class="img-medium"></div>
+<div class="img-medium img-border"></div>
 
 ![Connect pop-up](../img/vcl-connect-pop-up.gif)
 
