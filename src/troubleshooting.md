@@ -13,9 +13,10 @@ If you see this message and cannot connect, make sure you [signed into the VCL w
 
 ## Video
 
-- Videos are best experienced on Windows computers.
+- Videos are best experienced on Windows and Macs with M1/Silicon chips.
 - If you have a 4K resolution monitor, adjust your desktop resolution to 1920x1080.
 - For optimal video quality, decrease the size of the video, so that it’s not full screen.
+- If you just need to listen to the audio, you can disable the video. Go to the Video menu and select Disable in Video Track.
 
 ## Need help?
 
