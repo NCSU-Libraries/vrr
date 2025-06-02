@@ -1,65 +1,42 @@
 # Connecting from Mac
 
-## Install Microsoft Remote Desktop
+## Install Windows App
 
-Download and install [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) from the Mac App Store. You may need to login with your Apple ID.
+Download and install [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?mt=12) (formerly Microsoft Remote Desktop) from the Mac App Store. You may need to login with your Apple ID.
 
 > <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
   <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
   <circle cx="12" cy="9" r="1" fill="#c00"></circle>
   <circle cx="12" cy="12" r="7.25" stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
 </svg> If you have an NC State Unity ID, you may also download this from the Self Service application.
+## Open Windows App
 
-## Open Microsoft Remote Desktop
-
-When you first open Microsoft Remote Desktop, you may see a window pop-up that says, "We need to request access to your microphone and camera." Click on Continue. 
-
-<div class="img-medium"></div>
-
-![](../img/camera-mic-access.jpg)
-
-Then a window that says, "Microsoft Remote Desktop would like access to the camera." You can click on "Don't Allow."
-
-<div class="img-medium"></div>
-
-![](../img/camera-access.jpg)
-
-You can also click on "Don't Allow" for a window that says, "Microsoft Remote Desktop would like to access the microphone."
-
-<div class="img-medium"></div>
-
-![](../img/mic-access.jpg)
-
+Find Windows App by clicking on Launchpad in your Dock or going to your Applications folder. (The latter is pictured below.)
+![](../img/applications.jpg)
+Navigate through the tour to learn more about Windows App, then select Done, or select Skip.
+![](../img/macos-tour.jpg)
 ## Add a connection
 
-Click either the blue "Add PC" button. Alternatively, you can click the "+" icon near the top and select "Add PC."
-
-![](../img/add-pc.jpg)
-
-For PC Name, enter the Remote Computer number you wrote down earlier.
-
-![](../img/general-tab.jpg)
-
+Windows App opens on the Devices tab. 
+![](../img/devices.jpg)
+Select the plus (+) icon in the upper right-hand corner, then select Add PC. For PC Name, enter the Remote Computer number you wrote down earlier.
+![](../img/add_pc_general.jpg)
 ## Adjust your settings
-
 Under the Display tab, set Color quality to 32 bit. Then click the blue Add button.
 
-![](../img/display-settings.jpg)
-
+![](../img/add_pc_display.jpg)
 
 ## Connect to the virtual reading room
 
 Double click on the tile which has the PC Name you just added.
+![](../img/saved_pcs.jpg)
 
-![](../img/pc-connection-added.jpg)
-
-If prompted with, “The identity of the remote PC can’t be verified,” click Connect.
-
-![](../img/identity-cannot-verified.jpg)
+If prompted with a message that says, “...The certificate couldn't be verified...” click Continue.
+![](../img/certificate_cannot_be_verified.jpg)
 
 ## Log into the virtual reading room
-
 Enter the username and password you wrote down earlier.
+![](../img/enter_credentials.jpg)
 
 > <svg width="24" height="24" fill="none" viewBox="0 0 24 24">
   <path stroke="#c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
