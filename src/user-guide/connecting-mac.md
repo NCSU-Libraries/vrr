@@ -63,7 +63,3 @@ If you’d like to request reproductions, copy those files into DuplicationsRequ
 ## End your session
 
 Go to the top right corner of the Desktop, click on your username, and select Log Out. Then click on Log Out (do not click on Shut Down).
-
-If you see a window that says, "Your session was disconnected," click Close.
-
-![Session disconnected pop-up](../img/session-disconnected.jpg)
