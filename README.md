@@ -1,10 +1,10 @@
-# Virtual Reading Room User Guide
+# Virtual reading room user guide website
 
-Instructions for researchers on how to use the Special Collections Research Center's virtual reading room.
+Instructions for researchers on how to use the Special Collections Research Center's virtual reading room at NC State University.
 
-# How to Edit
+# How to edit the website
 
-This site was built using the static site generator mkdocs.
+This site was built using the static site generator [mkdocs](https://www.mkdocs.org/).
 
 1. Install mkdocs.
     - If you're on a Mac, run: `brew install mkdocs`
