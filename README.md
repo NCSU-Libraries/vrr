@@ -14,9 +14,11 @@ This site was built using the static site generator mkdocs.
 4. In a browser, visit http://127.0.0.1:8000/vrr/
 5. If your changes look good, run: `mkdocs build`
 6. Then you can add, commit, and push your changes to the repository:
-    - `git add .`
-    - `git commit -m "your message"`
-    - `git push`
+```
+git add .
+git commit -m "your message"
+git push
+```
 
 # License
 
